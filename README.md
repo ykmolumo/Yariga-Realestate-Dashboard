@@ -1,11 +1,7 @@
 <a name="readme-top"></a>
 <div align="center">
 
-  ![Project Banner](readme_assets/readme_banner.png#gh-dark-mode-only)
-  ![Project Banner](readme_assets/readme_banner-light.png#gh-light-mode-only)
 
-  ![Yariga Logo](readme_assets/yariga_logo.svg#gh-dark-mode-only)
-  ![Yariga Logo](readme_assets/yariga_logo-light.svg#gh-light-mode-only)
 
   <p>
   <b>Yariga</b> is a Full Stack MERN Dashboard App With CRUD, Auth, and Charts Using Refine
